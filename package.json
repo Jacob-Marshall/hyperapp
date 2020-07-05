@@ -4,7 +4,6 @@
   "version": "2.0.4",
   "type": "module",
   "main": "src/index.js",
-  "unpkg": "dist/index.js",
   "license": "MIT",
   "repository": "jorgebucaran/hyperapp",
   "homepage": "https://hyperapp.dev",
@@ -17,8 +16,9 @@
     "hyperapp",
     "frontend",
     "framework",
-    "virtual dom",
     "vdom",
+    "web",
+    "app",
     "ui"
   ],
   "scripts": {
